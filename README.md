@@ -44,3 +44,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kumarayushh&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarayushh&theme=tokyonight" />
 </p>
+
+## 🐍 Snake eating my contribution graph
+![snake gif](https://github.com/KumarAyushh/KumarAyushh/blob/output/github-contribution-grid-snake.gif)
