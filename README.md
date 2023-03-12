@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush! Great to see you here!</h1>
-<h3 align="center">I am Kumar Ayush. I am a first year undergrad pursuing B.Tech in CSE. Currently I am learning Frontend web development and as a tech enthusiast exploring the realms of "Tech World". I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:</h3>
+<h3>I am Kumar Ayush. I am a first year undergrad pursuing B.Tech in CSE. Currently I am learning Frontend web development and as a tech enthusiast exploring the realms of "Tech World". I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:</h3>
 
 [![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KumarAyushh&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/KumarAyushh/github-readme-activity-graph)
 
