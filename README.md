@@ -2,7 +2,20 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>, I'm Ayush! Great to see you here!</h1>
-<h3>I am Kumar Ayush. I am a first year undergrad pursuing B.Tech in CSE. Currently I am learning Frontend web development and as a tech enthusiast exploring the realms of "Tech World". I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:</h3>
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+<hr>
+
+<p>I am Kumar Ayush. I am a first year undergrad pursuing B.Tech in CSE. Currently I am learning Frontend web development and as a tech enthusiast exploring the realms of "Tech World". I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:</p>
 
 [![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KumarAyushh&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/KumarAyushh/github-readme-activity-graph)
 
