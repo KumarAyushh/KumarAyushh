@@ -43,7 +43,7 @@
 <h2> 🔗  Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/krayush_twt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krayush_twt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kumar ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar ayush" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/kumar ayush](https://www.linkedin.com/in/kumar-ayush-081976211)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar ayush" height="30" width="40" /></a>
 <a href="https://hashnode.com/@krayushh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@krayushh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushcodes23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushcodes23" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/BpQ74c7jJc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BpQ74c7jJc" height="30" width="40" /></a>
