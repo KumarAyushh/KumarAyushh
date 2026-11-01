@@ -1,62 +1,67 @@
-<h1 align="center">Hi <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
-</picture>, I'm Ayush! Great to see you here!</h1>
-<h3 align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<a href="#about-this-title"><img src="assets/hero.svg" width="100%" alt="Kumar Ayush, original series. 98% match, 2022 to present, 5 seasons. A computer science undergrad ships AI coding agents, event-driven backends and a video search engine that runs on a laptop. Genres: backend, AI agents, distributed systems."></a>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
-
-</p>
-<hr>
-
-<p>I am Kumar Ayush, an undergrad pursuing a B.Tech in Computer Science and Engineering. As a tech enthusiast, I am passionate about exploring the vast realms of the "Tech World". I thrive on collaborating on projects and bringing innovative, disruptive ideas to life. Discover more about my work and feel free to connect with me here:</p>
-
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KumarAyushh&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/KumarAyushh/github-readme-activity-graph)
-
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="350px">
-
-
-- 🔭 I’m currently practicing and polishing my so far learned skills in the Web-Dev field. I am currently working on my [Portfolio Website](https://kumarayushh.github.io/PortfolioSite/ "Portfolio Website")
-
-- 🌱 I’m currently learning **MERN and DSA in Java**
-
-- 👯 I’m looking to collaborate on my project [Portfolio Website](https://kumarayushh.github.io/PortfolioSite/)
-
-- 📝 I regularly write articles on [https://hashnode.com/@Krayushh](https://hashnode.com/@Krayushh)
-
-- 💬 Ask me about **HTML5 and CSS3**
-
-- 📫 How to reach me **krayush99@gmail.com**
-
-- 😎 Fun fact **I love playing Chess**
-
-
-
-## ⚡ Technologies
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-<h2> 🔗  Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/krayush_twt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krayush_twt" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kumar-ayush-081976211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar ayush" height="30" width="40" /></a>
-<a href="https://hashnode.com/@krayushh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@krayushh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushcodes23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushcodes23" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/BpQ74c7jJc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BpQ74c7jJc" height="30" width="40" /></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarayushh&label=Profile%20views&color=0e75b6&style=flat" alt="kumarayushh" /> </p>
-
-
-## 📈 Stats
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kumarayushh&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarayushh&theme=tokyonight" />
+<p>
+  <a href="https://github.com/KumarAyushh/ClipSeek"><img src="assets/cards/btn-play.svg" height="40" alt="Play ClipSeek"></a>
+  <a href="https://github.com/KumarAyushh?tab=repositories"><img src="assets/cards/btn-browse.svg" height="40" alt="Browse all repositories"></a>
+  <a href="#about-this-title"><img src="assets/cards/btn-info.svg" height="40" alt="More info"></a>
 </p>
 
+### Trending Now
 
+<p>
+  <a href="https://github.com/KumarAyushh/ClipSeek"><img src="assets/cards/clipseek.svg" width="260" alt="ClipSeek, number 1. Grep for videos: search inside videos by what is shown, said or heard, using Kafka, CLIP, Whisper and CLAP."></a>
+  <a href="https://github.com/KumarAyushh/CodeSense"><img src="assets/cards/codesense.svg" width="260" alt="CodeSense, number 2. An AI coding agent for VS Code with 400+ downloads on the Marketplace."></a>
+  <a href="https://github.com/KumarAyushh/RAG-Based-PDF-QA"><img src="assets/cards/pdfqa.svg" width="260" alt="PDF Q and A, number 3. RAG over your documents using LangChain, Pinecone and Gemini."></a>
+</p>
 
+### Coming Soon
+
+<p>
+  <a href="https://github.com/KumarAyushh/MeetMind"><img src="assets/cards/meetmind.svg" width="260" alt="MeetMind, in development. Turns meeting transcripts into live task boards."></a>
+  <a href="https://github.com/KumarAyushh/NovaCEX"><img src="assets/cards/novacex.svg" width="260" alt="NovaCEX, in development. A crypto spot exchange built from scratch."></a>
+  <a href="https://github.com/KumarAyushh/secondbrain"><img src="assets/cards/secondbrain.svg" width="260" alt="SecondBrain, in development. An AI-powered knowledge base."></a>
+</p>
+
+### Continue Watching
+
+<p>
+  <a href="https://github.com/KumarAyushh/LLD"><img src="assets/cards/lld.svg" width="260" alt="Low-Level Design: design patterns in Java."></a>
+  <a href="https://github.com/KumarAyushh/Go-Learning"><img src="assets/cards/go.svg" width="260" alt="Learning Go: notes and practice."></a>
+  <a href="https://github.com/KumarAyushh/python-for-ai"><img src="assets/cards/python.svg" width="260" alt="Python for AI: foundations."></a>
+</p>
+
+### Starring
+
+<img src="assets/cast.svg" width="640" alt="TypeScript, JavaScript, Go, Java, Python, React, Node.js, Express, Bun, FastAPI, PostgreSQL, Redis, Kafka, Docker, Prisma and Tailwind CSS">
+
+### Viewing Activity
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=KumarAyushh&background=141414&ring=E50914&fire=E50914&currStreakNum=FFFFFF&currStreakLabel=E50914&sideNums=FFFFFF&sideLabels=B3B3B3&dates=808080&stroke=333333&border=333333&border_radius=10" width="495" alt="GitHub contribution streak">
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=kumarayushh&label=Profile%20views&color=E50914&style=flat-square" alt="Profile views">
+
+### About This Title
+
+I'm Kumar Ayush, a B.Tech Computer Science and Engineering undergrad who likes collaborating on projects and building them end to end.
+
+- **Now filming:** [MeetMind](https://github.com/KumarAyushh/MeetMind) and [NovaCEX](https://github.com/KumarAyushh/NovaCEX)
+- **In training:** Go, low-level design and Python for AI
+- **Writers' room:** articles on [Hashnode](https://hashnode.com/@krayushh)
+- **Off screen:** playing chess
+
+### Who's Watching?
+
+Pick a profile to get in touch.
+
+<p>
+  <a href="https://www.linkedin.com/in/kumar-ayush-081976211"><img src="assets/cards/who-linkedin.svg" width="118" alt="LinkedIn"></a>
+  <a href="https://twitter.com/krayush_twt"><img src="assets/cards/who-x.svg" width="118" alt="X / Twitter"></a>
+  <a href="https://hashnode.com/@krayushh"><img src="assets/cards/who-hashnode.svg" width="118" alt="Hashnode"></a>
+  <a href="https://leetcode.com/ayushcodes23"><img src="assets/cards/who-leetcode.svg" width="118" alt="LeetCode"></a>
+  <a href="https://discord.gg/BpQ74c7jJc"><img src="assets/cards/who-discord.svg" width="118" alt="Discord"></a>
+  <a href="mailto:krayush99@gmail.com"><img src="assets/cards/who-email.svg" width="118" alt="Email"></a>
+</p>
+
+<a href="https://github.com/KumarAyushh?tab=repositories"><img src="assets/endcard.svg" width="100%" alt="Are you still watching? Continue to the repositories tab."></a>
