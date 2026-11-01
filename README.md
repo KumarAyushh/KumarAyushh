@@ -1,38 +1,38 @@
-<a href="#about-this-title"><img src="assets/hero.svg" width="100%" alt="Kumar Ayush, original series. 98% match, 2022 to present, 5 seasons. A computer science undergrad ships AI coding agents, event-driven backends and a video search engine that runs on a laptop. Genres: backend, AI agents, distributed systems."></a>
+<a href="#about-this-title"><img src="hero.svg" width="100%" alt="Kumar Ayush, original series. 98% match, 2022 to present, 5 seasons. A computer science undergrad ships AI coding agents, event-driven backends and a video search engine that runs on a laptop. Genres: backend, AI agents, distributed systems."></a>
 
 <p>
-  <a href="https://github.com/KumarAyushh/ClipSeek"><img src="assets/cards/btn-play.svg" height="40" alt="Play ClipSeek"></a>
-  <a href="https://github.com/KumarAyushh?tab=repositories"><img src="assets/cards/btn-browse.svg" height="40" alt="Browse all repositories"></a>
-  <a href="#about-this-title"><img src="assets/cards/btn-info.svg" height="40" alt="More info"></a>
+  <a href="https://github.com/KumarAyushh/ClipSeek"><img src="btn-play.svg" height="40" alt="Play ClipSeek"></a>
+  <a href="https://github.com/KumarAyushh?tab=repositories"><img src="btn-browse.svg" height="40" alt="Browse all repositories"></a>
+  <a href="#about-this-title"><img src="btn-info.svg" height="40" alt="More info"></a>
 </p>
 
 ### Trending Now
 
 <p>
-  <a href="https://github.com/KumarAyushh/ClipSeek"><img src="assets/cards/clipseek.svg" width="260" alt="ClipSeek, number 1. Grep for videos: search inside videos by what is shown, said or heard, using Kafka, CLIP, Whisper and CLAP."></a>
-  <a href="https://github.com/KumarAyushh/CodeSense"><img src="assets/cards/codesense.svg" width="260" alt="CodeSense, number 2. An AI coding agent for VS Code with 400+ downloads on the Marketplace."></a>
-  <a href="https://github.com/KumarAyushh/RAG-Based-PDF-QA"><img src="assets/cards/pdfqa.svg" width="260" alt="PDF Q and A, number 3. RAG over your documents using LangChain, Pinecone and Gemini."></a>
+  <a href="https://github.com/KumarAyushh/ClipSeek"><img src="clipseek.svg" width="260" alt="ClipSeek, number 1. Grep for videos: search inside videos by what is shown, said or heard, using Kafka, CLIP, Whisper and CLAP."></a>
+  <a href="https://github.com/KumarAyushh/CodeSense"><img src="codesense.svg" width="260" alt="CodeSense, number 2. An AI coding agent for VS Code with 400+ downloads on the Marketplace."></a>
+  <a href="https://github.com/KumarAyushh/RAG-Based-PDF-QA"><img src="pdfqa.svg" width="260" alt="PDF Q and A, number 3. RAG over your documents using LangChain, Pinecone and Gemini."></a>
 </p>
 
 ### Coming Soon
 
 <p>
-  <a href="https://github.com/KumarAyushh/MeetMind"><img src="assets/cards/meetmind.svg" width="260" alt="MeetMind, in development. Turns meeting transcripts into live task boards."></a>
-  <a href="https://github.com/KumarAyushh/NovaCEX"><img src="assets/cards/novacex.svg" width="260" alt="NovaCEX, in development. A crypto spot exchange built from scratch."></a>
-  <a href="https://github.com/KumarAyushh/secondbrain"><img src="assets/cards/secondbrain.svg" width="260" alt="SecondBrain, in development. An AI-powered knowledge base."></a>
+  <a href="https://github.com/KumarAyushh/MeetMind"><img src="meetmind.svg" width="260" alt="MeetMind, in development. Turns meeting transcripts into live task boards."></a>
+  <a href="https://github.com/KumarAyushh/NovaCEX"><img src="novacex.svg" width="260" alt="NovaCEX, in development. A crypto spot exchange built from scratch."></a>
+  <a href="https://github.com/KumarAyushh/secondbrain"><img src="secondbrain.svg" width="260" alt="SecondBrain, in development. An AI-powered knowledge base."></a>
 </p>
 
 ### Continue Watching
 
 <p>
-  <a href="https://github.com/KumarAyushh/LLD"><img src="assets/cards/lld.svg" width="260" alt="Low-Level Design: design patterns in Java."></a>
-  <a href="https://github.com/KumarAyushh/Go-Learning"><img src="assets/cards/go.svg" width="260" alt="Learning Go: notes and practice."></a>
-  <a href="https://github.com/KumarAyushh/python-for-ai"><img src="assets/cards/python.svg" width="260" alt="Python for AI: foundations."></a>
+  <a href="https://github.com/KumarAyushh/LLD"><img src="lld.svg" width="260" alt="Low-Level Design: design patterns in Java."></a>
+  <a href="https://github.com/KumarAyushh/Go-Learning"><img src="go.svg" width="260" alt="Learning Go: notes and practice."></a>
+  <a href="https://github.com/KumarAyushh/python-for-ai"><img src="python.svg" width="260" alt="Python for AI: foundations."></a>
 </p>
 
 ### Starring
 
-<img src="assets/cast.svg" width="640" alt="TypeScript, JavaScript, Go, Java, Python, React, Node.js, Express, Bun, FastAPI, PostgreSQL, Redis, Kafka, Docker, Prisma and Tailwind CSS">
+<img src="cast.svg" width="640" alt="TypeScript, JavaScript, Go, Java, Python, React, Node.js, Express, Bun, FastAPI, PostgreSQL, Redis, Kafka, Docker, Prisma and Tailwind CSS">
 
 ### Viewing Activity
 
@@ -56,12 +56,12 @@ I'm Kumar Ayush, a B.Tech Computer Science and Engineering undergrad who likes c
 Pick a profile to get in touch.
 
 <p>
-  <a href="https://www.linkedin.com/in/kumar-ayush-081976211"><img src="assets/cards/who-linkedin.svg" width="118" alt="LinkedIn"></a>
-  <a href="https://twitter.com/krayush_twt"><img src="assets/cards/who-x.svg" width="118" alt="X / Twitter"></a>
-  <a href="https://hashnode.com/@krayushh"><img src="assets/cards/who-hashnode.svg" width="118" alt="Hashnode"></a>
-  <a href="https://leetcode.com/ayushcodes23"><img src="assets/cards/who-leetcode.svg" width="118" alt="LeetCode"></a>
-  <a href="https://discord.gg/BpQ74c7jJc"><img src="assets/cards/who-discord.svg" width="118" alt="Discord"></a>
-  <a href="mailto:krayush99@gmail.com"><img src="assets/cards/who-email.svg" width="118" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/kumar-ayush-081976211"><img src="who-linkedin.svg" width="118" alt="LinkedIn"></a>
+  <a href="https://twitter.com/krayush_twt"><img src="who-x.svg" width="118" alt="X / Twitter"></a>
+  <a href="https://hashnode.com/@krayushh"><img src="who-hashnode.svg" width="118" alt="Hashnode"></a>
+  <a href="https://leetcode.com/ayushcodes23"><img src="who-leetcode.svg" width="118" alt="LeetCode"></a>
+  <a href="https://discord.gg/BpQ74c7jJc"><img src="who-discord.svg" width="118" alt="Discord"></a>
+  <a href="mailto:krayush99@gmail.com"><img src="who-email.svg" width="118" alt="Email"></a>
 </p>
 
-<a href="https://github.com/KumarAyushh?tab=repositories"><img src="assets/endcard.svg" width="100%" alt="Are you still watching? Continue to the repositories tab."></a>
+<a href="https://github.com/KumarAyushh?tab=repositories"><img src="endcard.svg" width="100%" alt="Are you still watching? Continue to the repositories tab."></a>
