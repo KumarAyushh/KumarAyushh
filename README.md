@@ -1,4 +1,4 @@
-<a href="#about-this-title"><img src="hero.svg" width="100%" alt="Kumar Ayush, original series. 98% match, 2022 to present, 5 seasons. A computer science undergrad ships AI coding agents, event-driven backends and a video search engine that runs on a laptop. Genres: backend, AI agents, distributed systems."></a>
+<a href="#about-this-title"><img src="hero.svg" width="100%" alt="Kumar Ayush, original series. 98% match, 2022 to present, 5 seasons. A software engineer ships AI coding agents, event-driven backends and a video search engine that runs on a laptop. Genres: backend, AI agents, distributed systems."></a>
 
 <p>
   <a href="https://github.com/KumarAyushh/ClipSeek"><img src="btn-play.svg" height="40" alt="Play ClipSeek"></a>
@@ -32,7 +32,25 @@
 
 ### Starring
 
-<img src="cast.svg" width="640" alt="TypeScript, JavaScript, Go, Java, Python, React, Node.js, Express, Bun, FastAPI, PostgreSQL, Redis, Kafka, Docker, Prisma and Tailwind CSS">
+<p>
+  <a href="https://www.typescriptlang.org/docs/"><img src="skill-typescript.svg" width="64" alt="TypeScript"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="skill-javascript.svg" width="64" alt="JavaScript"></a>
+  <a href="https://go.dev/doc/"><img src="skill-go.svg" width="64" alt="Go"></a>
+  <a href="https://dev.java/"><img src="skill-java.svg" width="64" alt="Java"></a>
+  <a href="https://docs.python.org/3/"><img src="skill-python.svg" width="64" alt="Python"></a>
+  <a href="https://react.dev/"><img src="skill-react.svg" width="64" alt="React"></a>
+  <a href="https://nodejs.org/docs/latest/api/"><img src="skill-nodejs.svg" width="64" alt="Node.js"></a>
+  <a href="https://expressjs.com/"><img src="skill-express.svg" width="64" alt="Express"></a>
+  <br>
+  <a href="https://bun.com/docs"><img src="skill-bun.svg" width="64" alt="Bun"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="skill-fastapi.svg" width="64" alt="FastAPI"></a>
+  <a href="https://www.postgresql.org/docs/"><img src="skill-postgresql.svg" width="64" alt="PostgreSQL"></a>
+  <a href="https://redis.io/docs/latest/"><img src="skill-redis.svg" width="64" alt="Redis"></a>
+  <a href="https://kafka.apache.org/documentation/"><img src="skill-kafka.svg" width="64" alt="Kafka"></a>
+  <a href="https://docs.docker.com/"><img src="skill-docker.svg" width="64" alt="Docker"></a>
+  <a href="https://www.prisma.io/docs"><img src="skill-prisma.svg" width="64" alt="Prisma"></a>
+  <a href="https://tailwindcss.com/docs"><img src="skill-tailwind.svg" width="64" alt="Tailwind CSS"></a>
+</p>
 
 ### Viewing Activity
 
@@ -44,12 +62,11 @@
 
 ### About This Title
 
-I'm Kumar Ayush, a B.Tech Computer Science and Engineering undergrad who likes collaborating on projects and building them end to end.
+I'm Kumar Ayush, a software engineer with a B.Tech in Computer Science and Engineering. I build backend systems, AI agents and developer tools end to end, and I enjoy collaborating on projects.
 
 - **Now filming:** [MeetMind](https://github.com/KumarAyushh/MeetMind) and [NovaCEX](https://github.com/KumarAyushh/NovaCEX)
 - **In training:** Go, low-level design and Python for AI
-- **Writers' room:** articles on [Hashnode](https://hashnode.com/@krayushh)
-- **Off screen:** playing chess
+- **Off screen:** Playing chess
 
 ### Who's Watching?
 
@@ -58,7 +75,6 @@ Pick a profile to get in touch.
 <p>
   <a href="https://www.linkedin.com/in/kumar-ayush-081976211"><img src="who-linkedin.svg" width="118" alt="LinkedIn"></a>
   <a href="https://twitter.com/krayush_twt"><img src="who-x.svg" width="118" alt="X / Twitter"></a>
-  <a href="https://hashnode.com/@krayushh"><img src="who-hashnode.svg" width="118" alt="Hashnode"></a>
   <a href="https://leetcode.com/ayushcodes23"><img src="who-leetcode.svg" width="118" alt="LeetCode"></a>
   <a href="https://discord.gg/BpQ74c7jJc"><img src="who-discord.svg" width="118" alt="Discord"></a>
   <a href="mailto:krayush99@gmail.com"><img src="who-email.svg" width="118" alt="Email"></a>
