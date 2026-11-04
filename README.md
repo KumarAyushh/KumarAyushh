@@ -1,4 +1,4 @@
-<a href="#about-this-title"><img src="hero.svg" width="100%" alt="Kumar Ayush, original series. 98% match, 2022 to present, 5 seasons. A software engineer ships AI coding agents, event-driven backends and a video search engine that runs on a laptop. Genres: backend, AI agents, distributed systems."></a>
+<a href="#about-this-title"><img src="hero.svg" width="100%" alt="Kumar Ayush, original series. 100% match, 2022 to present, 5 seasons. A software engineer ships AI coding agents, event-driven backends and a video search engine that runs on a laptop. Genres: backend, AI agents, distributed systems."></a>
 
 <p>
   <a href="https://github.com/KumarAyushh/ClipSeek"><img src="btn-play.svg" height="40" alt="Play ClipSeek"></a>
